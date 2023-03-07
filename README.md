@@ -1,2 +1,4 @@
 # English-to-French-Translation
 English to French Translation using LSTM 
+
+Project proposes the use of a Long Short-Term Memory (LSTM) neural network for machine translation from English to French. The paper discusses the challenges of machine translation, such as the complexity of the French language and the differences in sentence structure between the two languages. The proposed model uses a sequence-to-sequence architecture with attention mechanism and is trained on a large parallel corpus of English-French sentence pairs. The results show that the proposed model outperforms existing machine translation models, achieving a high level of accuracy and fluency in translating English sentences to French. The paper concludes by discussing the potential applications of the proposed model in various fields, such as natural language processing and artificial intelligence.
